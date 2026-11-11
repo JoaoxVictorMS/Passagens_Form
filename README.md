@@ -21,7 +21,7 @@
   <b>Aplicação web em Django focada em gerenciamento avançado de formulários, validações de regras de negócio customizadas e integração com componentes de UI modernos.</b>
 </p>
 
-<h2 id="layout">🎨 Layout/Preview</h2>
+<h2 id="layout">🎨 Preview</h2>
 
 <p align="center">
   <img src="m_project/menu.png" alt="Imagem de exemplo" width="450px">
