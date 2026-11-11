@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;"> Cadastro de Passagens</h1>
 
 <p align="center">
-  <img src="m_project/logo.png" alt="logo" width="300px">
+  <img src="m_project/logo.png" alt="logo" width="500px">
 </p>
 
 [PYTHON__BADGE]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -24,8 +24,8 @@
 <h2 id="layout">🎨 Layout/Preview</h2>
 
 <p align="center">
-  <img src="m_project/menu.png" alt="Imagem de exemplo" width="400px">
-  <img src="m_project/result.png" alt="Imagem de exemplo" width="400px">
+  <img src="m_project/menu.png" alt="Imagem de exemplo" width="450px">
+  <img src="m_project/result.png" alt="Imagem de exemplo" width="450px">
 </p>
 
 <h2 id="technologies">💻 Tecnologias</h2>
