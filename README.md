@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="m_project/menu.png" alt="Imagem de exemplo" width="400px">
-  <img src=m_project/result.png"" alt="Imagem de exemplo" width="400px">
+  <img src="m_project/result.png" alt="Imagem de exemplo" width="400px">
 </p>
 
 <h2 id="technologies">💻 Tecnologias</h2>
